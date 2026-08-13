@@ -1,0 +1,52 @@
++ echo 'Print the list of AWS EC2 Instances'
+Print the list of AWS EC2 Instances
++ aws ec2 describe-instances
++ jq '.Reservations[].Instances[].InstanceId'
++ echo 'Print the list of AWS Lambda Functions'
+Print the list of AWS Lambda Functions
++ aws lambda list-functions
++ echo 'Print the list of AWS S3 Buckets'
+Print the list of AWS S3 Buckets
++ aws s3 ls
++ echo 'Print the list of AWS IAM Users'
+Print the list of AWS IAM Users
++ aws iam list-users
++ echo 'Print the list of AWS EC2 Instances'
+Print the list of AWS EC2 Instances
++ aws ec2 describe-instances
++ jq '.Reservations[].Instances[].InstanceId'
++ echo 'Print the list of AWS Lambda Functions'
+Print the list of AWS Lambda Functions
++ aws lambda list-functions
++ echo 'Print the list of AWS S3 Buckets'
+Print the list of AWS S3 Buckets
++ aws s3 ls
++ echo 'Print the list of AWS IAM Users'
+Print the list of AWS IAM Users
++ aws iam list-users
++ echo 'Print the list of AWS EC2 Instances'
+Print the list of AWS EC2 Instances
++ aws ec2 describe-instances
++ jq '.Reservations[].Instances[].InstanceId'
++ echo 'Print the list of AWS Lambda Functions'
+Print the list of AWS Lambda Functions
++ aws lambda list-functions
++ echo 'Print the list of AWS S3 Buckets'
+Print the list of AWS S3 Buckets
++ aws s3 ls
++ echo 'Print the list of AWS IAM Users'
+Print the list of AWS IAM Users
++ aws iam list-users
++ echo 'Print the list of AWS EC2 Instances'
+Print the list of AWS EC2 Instances
++ aws ec2 describe-instances
++ jq '.Reservations[].Instances[].InstanceId'
++ echo 'Print the list of AWS Lambda Functions'
+Print the list of AWS Lambda Functions
++ aws lambda list-functions
++ echo 'Print the list of AWS S3 Buckets'
+Print the list of AWS S3 Buckets
++ aws s3 ls
++ echo 'Print the list of AWS IAM Users'
+Print the list of AWS IAM Users
++ aws iam list-users
